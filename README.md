@@ -60,7 +60,7 @@ cd 2-Search-Engine-Groq-Chatbot
 ```
 
 ### 2. Install dependencies
-Ensure Python 3.8+ is installed. Then run:
+Ensure Python 3.10+ is installed. Then run:
 
 bash
 Copy
@@ -95,10 +95,10 @@ How to learn AI?
 Write a poem about robots
 
 📂 File Structure
-├── app.py               # Main Streamlit app
-├── chat_log.json        # Auto-saved chat history
-├── .env                 # API keys (not committed)
-├── README.md            # You're reading it!
+├── app.py               - Main Streamlit app
+├── chat_log.json        - Auto-saved chat history
+├── .env                 - API keys (not committed)
+├── README.md            - You're reading it!
 
 🛑 Known Behaviors
 Empty or Invalid API Key:
