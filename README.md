@@ -61,28 +61,26 @@ cd 2-Search-Engine-Groq-Chatbot
 
 ### 2. Install dependencies
 Ensure Python 3.10+ is installed. Then run:
-
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 If requirements.txt is missing, you can install manually:
-
-bash
-Copy
-Edit
+```bash
 pip install streamlit python-dotenv groq sentence-transformers langchain langchain-community
-
+```
 ### 3. Create .env file
 env
 Copy
 Edit
+
+```bash
 GROQ_API_KEY=your_groq_key_here
 LANGCHAIN_API_KEY=your_langsmith_key_here  # Optional for Langsmith tracking
-
+```
 ### 4. Run the app
+```bash
 streamlit run app.py
-
+```
 📝 Suggested Prompts
 Use the sidebar or suggested buttons like:
 
