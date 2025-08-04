@@ -93,11 +93,12 @@ How to learn AI?
 Write a poem about robots
 
 📂 File Structure
+```bash
 ├── app.py               - Main Streamlit app
 ├── chat_log.json        - Auto-saved chat history
 ├── .env                 - API keys (not committed)
 ├── README.md            - You're reading it!
-
+```
 🛑 Known Behaviors
 Empty or Invalid API Key:
 
