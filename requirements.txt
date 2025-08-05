@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+langchain-groq
+sentence-transformers
+wikipedia
+arxiv
+duckduckgo-search
